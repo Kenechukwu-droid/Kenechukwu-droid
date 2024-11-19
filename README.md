@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kenechukwu-droid
 - 👀 I’m interested in full front end engineering.
-- 🌱 I’m currently learning font end engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning angular.
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me email at richardopara124@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
